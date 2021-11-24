@@ -49,6 +49,7 @@ OBJS = \
     $O/txc7.o \
     $O/txc8.o \
     $O/txc9.o \
+    $O/txcIrati.o \
     $O/tictoc13_m.o \
     $O/tictoc14_m.o \
     $O/tictoc15_m.o \
